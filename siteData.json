@@ -1,0 +1,17 @@
+[
+    {
+        "/": {
+            "assets": {
+                "icon": [],
+                "stylesheet": [
+                    "https://cdn.rawgit.com/UnJavaScripter/flex-css-lib/master/dist/main.min.css"
+                ],
+                "script": [
+                    "./app.js"
+                ],
+                "img": []
+            },
+            "links": []
+        }
+    }
+]
