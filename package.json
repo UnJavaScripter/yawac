@@ -2,6 +2,10 @@
   "name": "yawac",
   "version": "1.0.0",
   "description": "yawac is Yet Another Web App Crawler",
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/UnJavaScripter/yawac.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "mocha"
