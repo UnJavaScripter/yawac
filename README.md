@@ -10,7 +10,7 @@ Stands for Yet Another Web App Scrapper. It's a simple CLI tool that fetches loc
 
 ## Installation
 
-Business as usual `npm install`
+Business as usual `$ npm install`
 
 ## Playing with it
 
@@ -18,7 +18,7 @@ It expects a URL parameter which is the base where it should start scrapping (it
   
   Note that it will only follow local routes like `/cool/things/here` and will skip external links like `http://commitstrip.com`.
 
-Sample: `URL='http://unjavascripter.github.io/testrepo' node index.js`
+Sample: `$ URL='http://unjavascripter.github.io/testrepo' node index.js`
 
 ### The report
 
@@ -63,3 +63,7 @@ A `siteData.json` file will be created in the root folder, it will have the foll
 ]
 
 ```
+
+## Testing
+
+Run the unit tests with `$ npm test`
