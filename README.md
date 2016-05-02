@@ -10,7 +10,13 @@ Stands for Yet Another Web App Scrapper. It's a simple CLI tool that fetches loc
 
 ## Installation
 
-Business as usual `$ npm install`
+Clone the repo & _cd_ into the folder:
+
+`$ git clone https://github.com/UnJavaScripter/yawac.git && cd yawac`
+
+Then it's business as usual:
+
+`$ npm install`
 
 ## Playing with it
 
